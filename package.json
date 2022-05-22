@@ -2,7 +2,7 @@
     "name": "skippering-theme",
     "displayName": "Skippering Theme",
     "description": "code theme for skippering",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "repository": "https://github.com/skippering/vscode-theme",
     "icon": "https://github.com/skippering/vscode-theme/blob/main/images/logo.png",
     "license": "MIT",

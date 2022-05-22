@@ -6,5 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-05-22
+- Fix image links
+- Add logo
+
 ## [1.0.0] - 2021-08-26
 - Add light and dark themes for Skippering
