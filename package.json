@@ -3,8 +3,11 @@
     "displayName": "Skippering Theme",
     "description": "code theme for skippering",
     "version": "1.0.1",
-    "repository": "https://github.com/skippering/vscode-theme",
-    "icon": "https://github.com/skippering/vscode-theme/blob/main/images/logo.png",
+    "repository": {
+        "type" : "git",
+        "url": "https://github.com/skippering/vscode-theme"
+    },
+    "icon": "images/logo.png",
     "license": "MIT",
     "publisher": "Skippering",
     "engines": {
