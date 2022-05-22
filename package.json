@@ -1,0 +1,26 @@
+{
+    "name": "skippering-theme",
+    "displayName": "Skippering Theme",
+    "description": "code theme for skippering",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Skippering (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Skippering Dark-color-theme.json"
+            },
+            {
+                "label": "Skippering (light)",
+                "uiTheme": "vs",
+                "path": "./themes/Skippering Light-color-theme.json"
+            }
+        ]
+    }
+}
